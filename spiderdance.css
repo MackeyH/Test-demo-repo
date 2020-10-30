@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <div class="box">
+            <link rel="stylesheet" href="spiderdance.css">
+            <img src="spiderman.png">
+        </div>
+    </body>
+</html>
+From John Redden to Everyone:  08:44 PM
+.box {
+    background-color: lightskyblue;
+    width: 100%;
+    height: 200px;
+}
+
+img {
+    max-height: 30%;
+    max-width: 30%;
+}
+
+@keyframes position {
+    0% {}
+    100%
+}
